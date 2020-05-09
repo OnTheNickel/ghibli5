@@ -16,6 +16,7 @@
   <author href="http://www.professorbrian.com" email="bbanho@qcc.cuny.edu">
       Prof B
   </author>
-<access origin="https://ghibliapi.herokuapp.com/films" />
+
+  <access origin="https://ghibliapi.herokuapp.com"></access>
 
 </widget>
