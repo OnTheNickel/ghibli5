@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.professorbrian.studioghibli"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>ET570 Example</name>
+
+  <description>
+      An example for learning phonegap build.
+  </description>
+
+  <author href="http://www.professorbrian.com" email="bbanho@qcc.cuny.edu">
+      Prof B
+  </author>
+<access origin="https://ghibliapi.herokuapp.com/films" />
+
+</widget>
